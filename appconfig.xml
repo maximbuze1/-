@@ -1,0 +1,60 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<config>
+<profile>vkIsland</profile>
+<socialAuth url="http://auth.tortugasocial.com/" ttl="110" social="vkontakte" project="tropicania-vk" active="true"/>
+<avataria show="true" exchange="true"/>
+<serverconfig protocol="binary" encrypted="false" compressed="false" checksumed="true"/>
+<backendContentUrl>http://cdn-sp.tortugasocial.com/tropicania-ru/</backendContentUrl>
+<backendContentMirrorUrl>http://tortuga-a.akamaihd.net/tropicania-ru/</backendContentMirrorUrl>
+<supportUrl>http://vk.com/tropicaniaclub</supportUrl>
+<test mode="false" groupId="39485893"/>
+<resourseMap>
+<islandAvatarAnimation>swf/IslandAvatarAnimation.swf</islandAvatarAnimation>
+<appearanceIcons>swf/AppearanceIcons.swf</appearanceIcons>
+<avatarAppearance>swf/AvatarAppearance.swf</avatarAppearance>
+<islandAvatarClothes>swf/IslandAvatarClothes.swf</islandAvatarClothes>
+<islandAvatarIcons>swf/IslandAvatarIcons.swf</islandAvatarIcons>
+<islandBuildings>swf/IslandBuildings.swf</islandBuildings>
+<islandFarmLocation>swf/IslandFarmLocation.swf</islandFarmLocation>
+<islandPlants>swf/IslandPlants.swf</islandPlants>
+<islandResources>swf/IslandResources.swf</islandResources>
+<islandUi>swf/IslandUi.swf</islandUi>
+<uiLang>swf/UiLang_:lang:.swf</uiLang>
+<islandWeed>swf/IslandWeed.swf</islandWeed>
+<landscape>swf/Landscape.swf</landscape>
+<pets>swf/Pets.swf</pets>
+<islandSounds>swf/IslandSounds.swf</islandSounds>
+<islandDecor>swf/IslandDecor.swf</islandDecor>
+<islandBeach>swf/IslandBeach.swf</islandBeach>
+<islandconfig>//github.com/maximbuze1/-/blob/master/config_all_ru_9569ea2d75709d2553ccae922d6c46aa.zip?raw=true</islandconfig>
+</resourseMap>
+<resourseMapMirror>
+<islandAvatarAnimation>swf/IslandAvatarAnimation.swf</islandAvatarAnimation>
+<appearanceIcons>swf/AppearanceIcons.swf</appearanceIcons>
+<avatarAppearance>swf/AvatarAppearance.swf</avatarAppearance>
+<islandAvatarClothes>swf/IslandAvatarClothes.swf</islandAvatarClothes>
+<islandAvatarIcons>swf/IslandAvatarIcons.swf</islandAvatarIcons>
+<islandBuildings>swf/IslandBuildings.swf</islandBuildings>
+<islandDecor>swf/IslandDecor.swf</islandDecor>
+<islandFarmLocation>swf/IslandFarmLocation.swf</islandFarmLocation>
+<islandPlants>swf/IslandPlants.swf</islandPlants>
+<islandResources>swf/IslandResources.swf</islandResources>
+<islandUi>swf/IslandUi.swf</islandUi>
+<uiLang>swf/UiLang_:lang:.swf</uiLang>
+<islandWeed>swf/IslandWeed.swf</islandWeed>
+<landscape>swf/Landscape.swf</landscape>
+<pets>swf/Pets.swf</pets>
+<sounds>swf/IslandSounds.swf</sounds>
+<islandBeach>swf/IslandBeach.swf</islandBeach>
+<islandconfig>data/config_all_:lang:.zip</islandconfig>
+</resourseMapMirror>
+<musicTracks>
+<farm1>music/Tropicania1.mp3</farm1>
+<farm2>music/Tropicania2.mp3</farm2>
+<farm3>music/Tropicania3.mp3</farm3>
+</musicTracks>
+<backgroundMusicTracks>
+<tropics>music/Tropics.mp3</tropics>
+<ocean>music/Ocean.mp3</ocean>
+</backgroundMusicTracks>
+</config>
